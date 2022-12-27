@@ -1,0 +1,6 @@
+Bulbizarre
+Tortank
+Pikachu
+Bulbizarre 1 113
+Tortank 10 1004
+Pikachu 1 113

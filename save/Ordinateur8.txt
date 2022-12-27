@@ -1,0 +1,6 @@
+Raichu
+Goupix
+Carabaffe
+Raichu 6 600
+Goupix 1 100
+Carabaffe 6 600

@@ -1,0 +1,6 @@
+Ptitard
+Florizarre
+Reptincel
+Ptitard 1 100
+Florizarre 10 1000
+Reptincel 6 600

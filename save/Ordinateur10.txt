@@ -1,0 +1,6 @@
+Galopa
+Carabaffe
+Ponyta
+Galopa 6 600
+Carabaffe 6 600
+Ponyta 1 100

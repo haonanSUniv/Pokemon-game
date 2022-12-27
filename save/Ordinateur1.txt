@@ -1,0 +1,6 @@
+Pikachu
+Tartard
+Tetarte
+Pikachu 1 110
+Tartard 10 1001
+Tetarte 6 605

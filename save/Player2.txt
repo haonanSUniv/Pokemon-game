@@ -1,0 +1,7 @@
+Tortank
+Psykokwak
+Akwakwak
+Carabaffe 6 600
+Tortank 10 1000
+Psykokwak 1 100
+Akwakwak 6 600

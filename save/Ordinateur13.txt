@@ -1,0 +1,6 @@
+Tartard
+Nidoqueen
+Roucoups
+Tartard 10 1005
+Nidoqueen 10 1005
+Roucoups 6 613

@@ -1,0 +1,7 @@
+Raichu
+Roucool
+Roucoups
+Pikachu 1 100
+Raichu 6 600
+Roucool 1 100
+Roucoups 6 1100

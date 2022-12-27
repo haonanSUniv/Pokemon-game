@@ -1,0 +1,6 @@
+Sabelette
+Reptincel
+Herbizarre
+Sabelette 1 100
+Reptincel 6 600
+Herbizarre 6 600

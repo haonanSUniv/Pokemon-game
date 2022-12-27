@@ -1,0 +1,6 @@
+Herbizarre
+Akwakwak
+Galopa
+Herbizarre 6 600
+Akwakwak 6 600
+Galopa 6 600

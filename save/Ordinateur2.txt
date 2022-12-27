@@ -1,0 +1,6 @@
+Carapuce
+Nidoran
+Nidoran
+Carapuce 1 100
+Nidoran 1 100
+Nidoran 1 100

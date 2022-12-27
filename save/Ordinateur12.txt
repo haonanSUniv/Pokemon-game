@@ -1,0 +1,6 @@
+Bulbizarre
+Ponyta
+Nidoran
+Bulbizarre 1 100
+Ponyta 1 100
+Nidoran 1 100
